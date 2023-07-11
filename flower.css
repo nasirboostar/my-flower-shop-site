@@ -190,8 +190,12 @@ form{
     width: 1200px;
     height: 449px;
    padding: 50px ;
-   margin: 100px;
-  position: absolute;
+   margin: auto;
+   margin-top: 50px;
+  
    
    }
+  #subscribe{
+    margin-left: 16px;
+  }
   
