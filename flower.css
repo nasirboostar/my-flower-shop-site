@@ -132,5 +132,26 @@ font-weight: 700;
 text-decoration-line: underline;
 
 }
+.service-text{
+
+    color: rgba(39, 39, 39, 0.80);
+ text-align: center; 
+font-family: Lato;
+font-size: 24px;
+font-weight: 600;
+line-height: 35px;
+}
+.deal-title{
+    text-align: center;
+}
+.deal-info{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 150px;
+    margin-top: 150px;
+    background-color:rgba(229, 84, 115, 0.05) ;
+    height: 600px;
+}
 
    
