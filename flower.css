@@ -39,4 +39,5 @@ line-height: 30px;
 body{
     padding: 0px;
     margin: 0px;
+    word-wrap: none;
 }
