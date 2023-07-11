@@ -156,4 +156,24 @@ line-height: 35px;
 .box-img4{
     padding: 10px;
 }
-   
+
+
+form{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    height: 100%;
+    border-radius: 8px;
+
+   }
+
+
+   input{
+    width: 700px;
+    height: 64px;
+     background: #FFF;
+     border: 0px;
+     padding-left: 10px;
+margin-bottom: 40px;
+   }
